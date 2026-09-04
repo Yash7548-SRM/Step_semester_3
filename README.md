@@ -27,3 +27,17 @@
 - None
 
 ---
+
+
+## Date: 29-09-2026
+**Today's Work:**
+- Completed Week 3 class problems (PlacementRecord, MessWallet, Course, IdCard, Student — OOP basics: constructors, encapsulation, constructor overloading, reference vs value, static vs instance)
+- Completed Week 3 assignment problems (BookInventory, PayrollAccount, Employee overloaded constructors, HallTicket, Employee static members)
+
+**Next Session Plan:**
+- Start Week 4 problems
+
+**Issues Faced:**
+- None
+
+---
