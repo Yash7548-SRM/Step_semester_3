@@ -41,3 +41,31 @@
 - None
 
 ---
+
+
+## Date: 29-9-2026
+**Today's Work:**
+- Completed Week 4 class problems (Library Book Cataloguing, Payroll Batch Bonus Round, Late Fees Skip Logic, One-Time College Setup, Account Batch Payments — this() chaining, this keyword, final methods, static blocks, instanceof)
+- Completed Week 4 assignment problems (Hackathon Registration, Canteen Inventory Restock, Parking Overstay Fine Calculator, Library Membership Card Setup, Canteen Closing-Time Payment Dispatch)
+
+**Next Session Plan:**
+- Start Week 5 problems
+
+**Issues Faced:**
+- None
+
+---
+
+
+## Date: D05-09-2026
+**Today's Work:**
+- Completed Week 5 class problems (Movie Ticket Field Visibility Checker, Subclass Ticket Access, Seat Booking Encapsulation Guard, MovieBookingProfile JavaBean & OTP Property, Immutable Booking Receipt & Nightly Settlement — access modifiers, encapsulation, JavaBeans, immutability)
+- Completed Week 5 assignment problems (Membership Field Reach Checker, Reference Desk Subclass Reach, Book Copy Circulation Guard, LibraryMember JavaBean & Security Answer Property, Immutable Loan Receipt & Nightly Circulation Ledger)
+
+**Next Session Plan:**
+- Start Week 6 problems
+
+**Issues Faced:**
+- None
+
+---
