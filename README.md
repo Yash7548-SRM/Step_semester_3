@@ -97,3 +97,43 @@
 - None
 
 ---
+
+
+## Date: 03-10-2026
+**Today's Work:**
+- Completed Week 8 class problems (Vehicle Rental System, Employee Leave Request Workflow, Online Examination System, Hotel Booking System, Payment Processing for a Shopping System: object modeling, abstract classes, interfaces, state validation, polymorphism)
+- Completed Week 8 assignment problems (Hostel Laundry Queue, Assignment Submission Portal, Campus Premiere Ticket Counter, FitZone Membership Desk, Campus Notice Broadcaster)
+
+**Next Session Plan:**
+- Start Week 9 problems
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 10-10-2026
+**Today's Work:**
+- Completed Week 9 class problems (Library Catalog Lookup, Warehouse Grid Summary, Pair With Target Sum, Maximize Area Between Two Boundaries: binary search, 2D arrays, hashing, two pointers, Big-O analysis)
+- Completed Week 9 assignment problems (Class Topper Finder, Merging Two Token Queues, Most Popular Canteen Order, Hot Weather Alert Windows, Ticket Price Slot Finder: 2D arrays, two-pointer merge, hash maps, sliding window, binary search)
+
+**Next Session Plan:**
+- Start Week 10 problems
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 10-10-2026
+**Today's Work:**
+- Completed Week 10 class problems (Bank Account Withdrawal System, Campus Vehicle Pass System, Student Club Registration Management, Class Marks Grid Analysis, Payroll Register System: inheritance, abstract classes, interfaces, equals/hashCode, 2D arrays, polymorphism)
+- Completed Week 10 assignment problems (Priority Token Insertion, Cancelled Orders Cleanup, Reverse the Queue, Train Coaches Both Ways, Round-Robin Game Turns: singly, doubly and circular linked lists)
+
+**Next Session Plan:**
+- Start Week 11 problems
+
+**Issues Faced:**
+- None
+
+---
