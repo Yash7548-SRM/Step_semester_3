@@ -137,3 +137,17 @@
 - None
 
 ---
+
+
+## Date: 31-10-2026
+**Today's Work:**
+- Completed Week 11 class problems (Print Circular List, Insert at Tail of Doubly List, Remove First K Nodes, Delete N-th Node, Split List in Half, Reverse First K Nodes, Count Nodes, Check If Empty, Insert at End of Circular List, Delete Last Node of Doubly List: singly, doubly and circular linked lists, fast and slow pointers)
+- Completed Week 11 assignment problems (Notice Board Shuffle, Hackathon Registration Desk, Attendance Disorder Score, Placement Cutoff, Contest Leaderboard: bubble sort, insertion sort, merge sort, quickselect, counting sort, stability)
+
+**Next Session Plan:**
+- Start Week 12 problems
+
+**Issues Faced:**
+- None
+
+---
