@@ -151,3 +151,14 @@
 - None
 
 ---
+
+## Date: 18-11-2026
+**Today's Work:**
+- Completed Week 12 class problems (Pocket Calculator, Secret Notice Shifter, Editor Undo History, Score Band Counter, Leaderboard Ranking, Section Timetables: stacks, infix to postfix, binary search lower bound, stable insertion sort, deep copy)
+- Completed Week 12 assignment problems (Middle Seat Finder, Last-but-k Announcement, Merging Two Waitlists, Browser Tab Strip, Counselling List First: linked lists, fast and slow pointers, merging, doubly linked list, partitioning)
+
+
+**Issues Faced:**
+- None
+
+---
